@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-IceHub-Brookhaven-8460", true))()
